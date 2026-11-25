@@ -1,0 +1,21 @@
+query,category,solution
+WiFi not connecting,Network,Check WiFi settings and reconnect to the network.
+Internet not working,Network,Check your network connection and contact support if needed.
+Slow internet connection,Network,Pause unnecessary downloads and check network speed.
+Forgot password,Authentication,Use the official password reset portal.
+Unable to login,Authentication,Verify your username and use the official recovery portal.
+OTP not received,Authentication,Check your registered number and request a new OTP.
+Account locked,Authentication,Contact IT support to verify your identity.
+Computer running slow,Performance,Close unused applications and check CPU and memory usage.
+Laptop is slow,Performance,Check resource usage and restart if appropriate.
+Laptop overheating,Hardware,Ensure proper ventilation and close heavy applications.
+Printer not working,Hardware,Check printer connection and paper supply.
+Keyboard not responding,Hardware,Check the keyboard connection.
+Mouse not working,Hardware,Check the connection and battery.
+Application crashing,Software,Restart the application and check for approved updates.
+Software not opening,Software,Restart the application and contact support if needed.
+Cannot install software,Software,Check system requirements and contact your administrator.
+Storage full,Storage,Review files according to company retention policy.
+VPN not connecting,Network,Check internet connectivity and approved VPN settings.
+Suspicious phishing email,Security,Do not open links or attachments. Report the email to IT security.
+Virus detected malware,Security,Contact IT security and follow incident response policy.
